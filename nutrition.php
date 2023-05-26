@@ -104,24 +104,6 @@
     </div>
 
     <div class="nutrition-option">
-      <img src="low calories.jpg" alt="Low Calories">
-      <div class="nutrition-option-content">
-        <h2>Low Calories</h2>
-        <p> Find a collection of low-calorie recipes that are perfect for individuals aiming to manage their calorie intake. These recipes focus on nutrient-dense ingredients and clever preparation techniques to provide satisfying meals without excess calories.</p>
-        <a href="low-calories.php">View Nutrition</a>
-      </div>
-    </div>
-
-    <div class="nutrition-option">
-      <img src="vegetarian.jpg" alt="Vegetarian">
-      <div class="nutrition-option-content">
-        <h2>Vegetarian</h2>
-        <p> Embrace a plant-based lifestyle with vegetarian recipes that are rich in nutrients and flavors. Discover delicious meat-free meals that incorporate a variety of vegetables, legumes, grains, and plant-based proteins.</p>
-        <a href="vegetarian.php">View Nutrition</a>
-      </div>
-    </div>
-
-    <div class="nutrition-option">
       <img src="snack.jpg" alt="Snack">
       <div class="nutrition-option-content">
         <h2>Snack</h2>
@@ -155,3 +137,4 @@
   </div>
 </body>
 </html>
+
